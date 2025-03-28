@@ -27,9 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
-  employer         : |
-    Institute of Atmospheric Physics,
-      Chinese Academy of Sciences  # 精确对齐方案
+  employer         : "Institute of Atmospheric Physics,<br>Chinese Academy of Sciences"  # 精确对齐方案
   
   uri              : # URL
   email            : "13598987127@163.com" 
